@@ -9,7 +9,6 @@ firebase-admin-sdk.json
 dev
 /cache
 /logs/
-.env
 
 # SDK Build
 builds
@@ -62,7 +61,6 @@ activepieces-engine.js
 scratch.md
 
 # environment variables
-.env
 
 .cursor/rules/nx-rules.mdc
 .github/instructions/nx.instructions.md
@@ -73,3 +71,4 @@ scratch.md
 /blob-report/
 /playwright/.cache/
 /redis-binaries/
+config.bat
